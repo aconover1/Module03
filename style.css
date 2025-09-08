@@ -83,7 +83,7 @@ aside::after{
   top:0; right:0;                 
   width:20px;                     
   height:100%;                    
-  background:#57548f;             
+  background: #d234;             
 }
 
 
@@ -125,7 +125,7 @@ article section{
 
 article section{
   background:#fff8e2;             
-  border:2px solid #197a19;       
+  border:2px solid #ff2543;       
   border-left-width:60px;          
   padding:16px 18px;               
 }
